@@ -1,6 +1,6 @@
 # Pick one.
 A completely standalone minimalist webpage template of a choice: to choose between Red and Blue. Inspired by the Matrix films.
-<br>
+<br> <br>
 This project is all contained within one .html file, no dependencies or external files are required. 
 
 ## How it works
