@@ -18,3 +18,4 @@ This repository uses the [The GNU General Public License v3.0](https://www.gnu.o
 ## Credits
 * HTML, CSS, JS by @Pud-of-Mud
 * Inspired by the Matrix
+* Roboto font by [Google](https://fonts.google.com/)
