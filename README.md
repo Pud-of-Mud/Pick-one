@@ -2,6 +2,7 @@
 A completely standalone minimalist webpage template of a choice: to choose between Red and Blue. Inspired by the Matrix films.
 <br> <br>
 This project is all contained within one .html file, no dependencies or external files are required. 
+![Alt](https://repobeats.axiom.co/api/embed/2c7fbc9d7770f18ce342f3beb5e796e2cf39b29a.svg "Repobeats analytics image")
 
 ## How it works
 * When the user click on the **Blue** button, it activates the JavaScript function ```redirectWithMaliciousIntent()```.
